@@ -21,6 +21,6 @@ def todaysday():
         print("Today is Friday")
     elif dayofWeek == 6:
         print("Today is Saturday")
-    else dayofWeek == 7:
+    elif dayofWeek == 7:
         print("Today is Sunday")
 
